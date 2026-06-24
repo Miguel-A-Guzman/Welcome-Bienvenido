@@ -1,2 +1,6 @@
 # Welcome-Bienvenido
-Thanks for passing by. Please select your prefered language to watch my portfolio.
+Thanks for stopping by. Please select your preferred language to view my portfolio.
+
+Gracias por pasar. Por favor, selecciona tu idioma preferido para ver mi portafolio.
+## [ENGLISH]()
+## [ESPAÑOL]()
